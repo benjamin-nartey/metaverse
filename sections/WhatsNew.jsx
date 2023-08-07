@@ -1,4 +1,5 @@
 "use client";
+
 import { motion } from "framer-motion";
 
 import { TypingText, NewFeatures, TitleText } from "../components";
